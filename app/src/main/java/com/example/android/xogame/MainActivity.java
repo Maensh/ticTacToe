@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
 
     // 0:Yellow, 1:Red, 2:Empty
     // test that
+    // New edit
 
     int[] gameState = {2, 2, 2, 2, 2, 2, 2, 2, 2};
 
